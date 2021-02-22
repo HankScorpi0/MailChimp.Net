@@ -10,7 +10,7 @@
         <licenseUrl>https://github.com/brandonseydel/MailChimp.Net/blob/master/LICENSE.txt</licenseUrl>
         <iconUrl>http://developer.mailchimp.com/documentation/mailchimp/img/freddie_o.svg</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>A .NET Wrapper for Mail Chimp v3.0 API</description>
+        <description>Fork -> A .NET Wrapper for Mail Chimp v3.0 API</description>
         <releaseNotes>
             Added Ping
             Added support for list(batch) method (#266)
